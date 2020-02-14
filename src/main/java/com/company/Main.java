@@ -21,5 +21,7 @@ public class Main {
         for (var element: authors) {
             System.out.println(element.getName());
         }
+
+        DatabaseManager test = new DatabaseManager();
     }
 }
