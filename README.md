@@ -11,3 +11,5 @@ JSON added to Maven Project
 Author and bookstore files added
 
 AuthorParser class created to parse JSON files
+
+Insert json into database
